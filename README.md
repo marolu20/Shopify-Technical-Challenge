@@ -1,6 +1,6 @@
 # Shopify Technical Challenge
-Shopify Technical Challenge Submission
-![shopify logo](https://user-images.githubusercontent.com/63667951/133673834-379f2e65-4479-4a2e-875c-5d2c7b01f380.png)
+[shopify logo](https://user-images.githubusercontent.com/63667951/133675123-6a33348b-6b0d-415d-bb65-cf6cc8176956.png)
+
 
 ## Challenge
 
