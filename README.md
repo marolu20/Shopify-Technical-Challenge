@@ -5,7 +5,7 @@
 ## Challenge
 
 ## Contents
-1. Question 1
+Question 1
     - Importing librarys
     - Loading Data
     - Exploring Data Set
@@ -13,5 +13,5 @@
     - Analysis
     - Final Soution
 
-2. Question 2
+Question 2
     - Solutions
