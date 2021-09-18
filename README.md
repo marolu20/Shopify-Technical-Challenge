@@ -6,12 +6,12 @@
 
 ## Contents
 Question 1
-    - Importing librarys
-    - Loading Data
-    - Exploring Data Set
-    - Data Cleaning
-    - Analysis
-    - Final Soution
+- Importing librarys
+- Loading Data
+- Exploring Data Set
+- Data Cleaning
+- Analysis
+- Final Soution
 
 Question 2
-    - Solutions
+- Solutions
