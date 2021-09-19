@@ -1,4 +1,4 @@
-# Shopify Technical Challenge
+# Shopify Data Science Challenge
 <p align="center"><img src="https://user-images.githubusercontent.com/63667951/133675379-6c703fd6-9910-4776-8483-b53b8c4ab28d.png" width="600" height="400"></p>
 
 
