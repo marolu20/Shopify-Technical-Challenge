@@ -4,7 +4,7 @@
 
 ## Challenge
 #### Quesiton 1<br />
-Given some sample data, write a program to answer the following: click here to access the required data set
+Given some sample data, write a program to answer the following: click [here](https://docs.google.com/spreadsheets/d/16i38oonuX1y1g7C_UAmiK9GkY7cS-64DfiDMNiR41LM/edit#gid=0) to access the required data set.
 
 On Shopify, we have exactly 100 sneaker shops, and each of these shops sells only one model of shoe. We want to do some analysis of the average order value (AOV). When we look at orders data over a 30 day window, we naively calculate an AOV of $3145.13. Given that we know these shops are selling sneakers, a relatively affordable item, something seems wrong with our analysis. 
 
@@ -21,7 +21,7 @@ c. What product was ordered the most by customers in Germany?<br />
 - Load Data
 - Explore Data
 - Clean Data
-- Final Soution
+- Final Solution
 
 #### Question 2
 - Final Solution
